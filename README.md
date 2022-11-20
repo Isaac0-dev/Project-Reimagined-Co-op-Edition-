@@ -30,8 +30,7 @@ What makes a good hack? Ideas. If you have any fun and interesting ideas for the
 
 ###### Mr.Needlemouse64:
 
-Head of Project
-Main Developer
+Head of Project, and Main Developer
 
 
 ###### Bloxxel64:
