@@ -1,4 +1,6 @@
 # Project Reimagined: SM64ex-Coop Edition
+![reimagined thumbnail](https://user-images.githubusercontent.com/103795210/202890934-ddbed0e1-82be-482f-81f0-a1d163ab279e.png)
+
 
 Welcome to the repository of Project Reimagined! Specifically the sm64ex-coop port of the hack.
 
